@@ -137,7 +137,8 @@ Future work may include:
     Lundberg & Lee (2017) — SHAP Framework
 
 
-Demo Video: [](https://youtu.be/mxK2a8GlP2w)
+Video Demonstration
+[Watch the video here](https://youtu.be/mxK2a8GlP2w)
 
 Notebook link: https://colab.research.google.com/drive/1cjzUKRhtiI1hH81ksuwl3Weqj5gdl0DC?usp=sharing
 
