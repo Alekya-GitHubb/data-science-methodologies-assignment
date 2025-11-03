@@ -157,9 +157,10 @@ The integration of preprocessing and model training into a single pipeline ensur
     SAS Institute Inc. SEMMA Methodology
 
     Lundberg, S.M., & Lee, S.I. (2017). A Unified Approach to Interpreting Model Predictions (SHAP)
+   
 
-
-Demo Video: 
+Video Demonstration
+[Watch the video here](https://youtu.be/lBZxOCa1WLY)
 
 Notebook link: https://colab.research.google.com/drive/15BkG0nGoIhG0iWBXRlbo3SC-tnWtqneV?usp=sharing
 
