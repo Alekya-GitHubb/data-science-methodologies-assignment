@@ -144,7 +144,9 @@ Future enhancements:
 
     Lundberg, S.M., & Lee, S.I. — SHAP Explainability Framework
 
-Demo Video
+
+Video Demonstration
+[Watch the video here](https://youtu.be/hnhLlLRcyDo)
 
 Notebook link: https://colab.research.google.com/drive/1ObFyg9Fvy7IpokvDJTIGIn9dQOR5RmXS?usp=sharing
 
