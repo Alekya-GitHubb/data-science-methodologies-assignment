@@ -160,7 +160,7 @@ The integration of preprocessing and model training into a single pipeline ensur
    
 
 Video Demonstration
-[Watch the video here](https://youtu.be/lBZxOCa1WLY)
+[Watch the video here](https://drive.google.com/file/d/1lVB8jxs1BiyrshiD8noePu_ALBHoWSzd/view?usp=sharing)
 
 Notebook link: https://colab.research.google.com/drive/15BkG0nGoIhG0iWBXRlbo3SC-tnWtqneV?usp=sharing
 
