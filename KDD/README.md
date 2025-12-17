@@ -146,7 +146,7 @@ Future enhancements:
 
 
 Video Demonstration
-[Watch the video here]([https://youtu.be/hnhLlLRcyDo](https://drive.google.com/file/d/15s9P3lxOt3i54NsDHXFI1hO7lVYQXj-z/view?usp=sharing))
+[Watch the video here]:((https://drive.google.com/file/d/15s9P3lxOt3i54NsDHXFI1hO7lVYQXj-z/view?usp=sharing))
 
 Notebook link: https://colab.research.google.com/drive/1ObFyg9Fvy7IpokvDJTIGIn9dQOR5RmXS?usp=sharing
 
