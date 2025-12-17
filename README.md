@@ -118,8 +118,8 @@ Versioning	    Git / GitHub
 | KDD      | Negative review prediction | XGBoost | Balanced metrics; strong recall |
 
 
-| No. | Experiment | Description | Open in Colab |
-|:--:|:--|:--|:--|
+| No. | Experiment | Open in Colab |
+|:--:|:--|:--|
 | 1️⃣ | **CRISPDM** | [Open Colab 1](https://colab.research.google.com/drive/1cjzUKRhtiI1hH81ksuwl3Weqj5gdl0DC?usp=sharing) |
 | 2️⃣ | **KDD** | [Open Colab 2](https://colab.research.google.com/drive/1AsFTE3ceZ6rFl7KUratQQCu6aVvTn7zg?usp=sharing) |
 | 3️⃣ | **SEMMA** | [Open Colab 2](https://colab.research.google.com/drive/15BkG0nGoIhG0iWBXRlbo3SC-tnWtqneV?usp=sharing) |
